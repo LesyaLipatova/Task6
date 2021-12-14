@@ -1,0 +1,21 @@
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\bin\Debug\Lesya 6.exe.config
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\bin\Debug\Lesya 6.exe
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\bin\Debug\Lesya 6.pdb
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\obj\Debug\Lesya 6.csprojAssemblyReference.cache
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\obj\Debug\Lesya_6.Form1.resources
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\obj\Debug\Lesya_6.Properties.Resources.resources
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\obj\Debug\Lesya 6.csproj.GenerateResource.cache
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\obj\Debug\Lesya 6.csproj.CoreCompileInputs.cache
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\obj\Debug\Lesya 6.exe
+C:\Users\Danil\source\repos\Lesya 6\Lesya 6\obj\Debug\Lesya 6.pdb
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\bin\Debug\Lesya 6.exe.config
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\bin\Debug\Lesya 6.exe
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\bin\Debug\Lesya 6.pdb
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya 6.csproj.AssemblyReference.cache
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya 6.csproj.SuggestedBindingRedirects.cache
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya_6.Form1.resources
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya_6.Properties.Resources.resources
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya 6.csproj.GenerateResource.cache
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya 6.csproj.CoreCompileInputs.cache
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya 6.exe
+C:\Users\lesya\OneDrive\Рабочий стол\Lesya_6 (1)\Lesya 6\Lesya 6\obj\Debug\Lesya 6.pdb
